@@ -1,10 +1,3 @@
-/*
-Assignment: Javascript Assignment
-Filename: game.js
-@author: KITSANTAS FOTIOS (17421808)
-Date: 30/04/17
-*/
-
 /*Create a Javascript Object for a horse with 3 parameters: HTML ID, position x and y*/
 function Horse(id, x, y){
 	this.element = document.getElementById(id);/*HTML element of the horse*/
