@@ -1,6 +1,5 @@
 # Horse Racing Game (JavaScript) 
 
-To test or play the game feel free to use my GitHub's: [Live Demo](https://fkitsantas.github.io/Horse-Racing-Game-JavaScript/)
 
 ## Table of Contents
 - [About The Project](#about-the-project)
@@ -20,7 +19,7 @@ The game is built using the following technologies:
 - HTML: The structure of the web page.
 - CSS: Styling the web page.
 - JavaScript: The core functionality of the game.
-- GitHub Pages: Hosting the game online.
+
 
 ## Features
 
